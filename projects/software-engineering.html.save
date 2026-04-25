@@ -63,10 +63,6 @@
     View Business Requirements
     </a></p>
 
-    <p><a href="../files/originals/CS 255 Model Application Short Paper Template ProjectOne (1).docx" target="_blank">
-    View Model Application Short Paper
-    </a></p>
-
     <p><a href="../files/originals/ProjectTwo Template (2).docx" target="_blank">
     View Final Design Template
     </a></p>
@@ -76,24 +72,54 @@
     </a></p>
 
     <p><a href="../files/originals/UML Class Diagram (enhanced).pdf" target="_blank">
-    View UML Class Diagram
+    View Enhanced UML Class Diagram
     </a></p>
 
     <p><a href="../files/originals/Scheduling Sequence (enhanced).pdf" target="_blank">
-    View Scheduling Sequence
+    View Enhanced Scheduling Sequence
     </a></p>
 
     <p><a href="../files/originals/Driving lesson System (enhanced).pdf" target="_blank">
-    View Driving Lesson System
+    View Enhanced Driving Lesson System
     </a></p>
-
   </section>
 
   <section class="card">
     <h2>Reflection</h2>
     <p>
       Working on this artifact helped me understand that good software starts before code is written. A project can
-      fail if requirements are unclear or if the design does not match what users actually need. This enhancement
+<section>
+<h3>Project Files</h3>
+
+<p><a href="../files/originals/CS 255 Business Requirements Document Template (7) (1) (3).docx" target="_blank">
+View Business Requirements
+</a></p>
+
+<p><a href="../files/originals/CS 255 Model Application Short Paper Template ProjectOne (1).docx" target="_blank">
+View Model Application Short Paper
+</a></p>
+
+<p><a href="../files/originals/ProjectTwo Template (2).docx" target="_blank">
+View Final Design Template
+</a></p>
+
+<p><a href="../files/originals/CS 255 Client Presentation Template.pptx" target="_blank">
+View Client Presentation
+</a></p>
+
+<p><a href="../files/originals/UML Class Diagram (enhanced).pdf" target="_blank">
+View UML Class Diagram
+</a></p>
+
+<p><a href="../files/originals/Scheduling Sequence (enhanced).pdf" target="_blank">
+View Scheduling Sequence
+</a></p>
+
+<p><a href="../files/originals/Driving lesson System (enhanced).pdf" target="_blank">
+View Driving Lesson System
+</a></p>
+
+</section>      fail if requirements are unclear or if the design does not match what users actually need. This enhancement
       helped me grow in planning, documentation, and professional communication, which are important skills for my
       long-term goals in systems administration, DevOps, infrastructure, and security.
     </p>
