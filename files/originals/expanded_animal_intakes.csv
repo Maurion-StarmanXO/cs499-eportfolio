@@ -1,0 +1,41 @@
+animal_id,name,animal_type,breed,color,date_of_birth,outcome_type,outcome_subtype,sex_upon_outcome,age_upon_outcome,age_upon_outcome_in_weeks,location_lat,location_long
+X10001_0,Nemo,Fish,Goldfish,Orange,2024-01-10,Adoption,,Unknown,12 weeks,12,30.2672,-97.7431
+X10002_0,Kiwi,Bird,Parakeet,Green,2023-09-14,Transfer,,Unknown,30 weeks,30,30.268,-97.742
+X10003_0,Mittens,Cat,Domestic Shorthair Mix,Gray,2022-05-11,Adoption,,Spayed Female,104 weeks,104,30.2665,-97.7442
+X10004_0,Spike,Dog,Pit Bull Mix,Brown,2021-08-03,Return to Owner,,Neutered Male,156 weeks,156,30.265,-97.7418
+X10005_0,Marble,Exotic,Bearded Dragon,Tan,2023-03-20,Adoption,,Unknown,56 weeks,56,30.2691,-97.745
+X10006_0,Bubbles,Fish,Betta,Blue,2024-02-01,Adoption,,Unknown,10 weeks,10,30.2678,-97.7438
+X10007_0,Sunny,Bird,Cockatiel,Yellow,2022-11-08,Adoption,,Unknown,70 weeks,70,30.2688,-97.7429
+X10008_0,Shadow,Cat,Maine Coon Mix,Black,2021-06-17,Transfer,,Neutered Male,180 weeks,180,30.2662,-97.7447
+X10009_0,Rex,Dog,Labrador Retriever Mix,Black,2020-04-21,Adoption,,Neutered Male,210 weeks,210,30.2648,-97.7425
+X10010_0,Ember,Exotic,Ball Python,Brown,2021-09-30,Adoption,,Unknown,130 weeks,130,30.2686,-97.7415
+X10001_1,Nemo,Fish,Goldfish,Orange,2024-01-10,Adoption,,Unknown,12 weeks,12,30.2672,-97.7431
+X10002_1,Kiwi,Bird,Parakeet,Green,2023-09-14,Transfer,,Unknown,30 weeks,30,30.268,-97.742
+X10003_1,Mittens,Cat,Domestic Shorthair Mix,Gray,2022-05-11,Adoption,,Spayed Female,104 weeks,104,30.2665,-97.7442
+X10004_1,Spike,Dog,Pit Bull Mix,Brown,2021-08-03,Return to Owner,,Neutered Male,156 weeks,156,30.265,-97.7418
+X10005_1,Marble,Exotic,Bearded Dragon,Tan,2023-03-20,Adoption,,Unknown,56 weeks,56,30.2691,-97.745
+X10006_1,Bubbles,Fish,Betta,Blue,2024-02-01,Adoption,,Unknown,10 weeks,10,30.2678,-97.7438
+X10007_1,Sunny,Bird,Cockatiel,Yellow,2022-11-08,Adoption,,Unknown,70 weeks,70,30.2688,-97.7429
+X10008_1,Shadow,Cat,Maine Coon Mix,Black,2021-06-17,Transfer,,Neutered Male,180 weeks,180,30.2662,-97.7447
+X10009_1,Rex,Dog,Labrador Retriever Mix,Black,2020-04-21,Adoption,,Neutered Male,210 weeks,210,30.2648,-97.7425
+X10010_1,Ember,Exotic,Ball Python,Brown,2021-09-30,Adoption,,Unknown,130 weeks,130,30.2686,-97.7415
+X10001_2,Nemo,Fish,Goldfish,Orange,2024-01-10,Adoption,,Unknown,12 weeks,12,30.2672,-97.7431
+X10002_2,Kiwi,Bird,Parakeet,Green,2023-09-14,Transfer,,Unknown,30 weeks,30,30.268,-97.742
+X10003_2,Mittens,Cat,Domestic Shorthair Mix,Gray,2022-05-11,Adoption,,Spayed Female,104 weeks,104,30.2665,-97.7442
+X10004_2,Spike,Dog,Pit Bull Mix,Brown,2021-08-03,Return to Owner,,Neutered Male,156 weeks,156,30.265,-97.7418
+X10005_2,Marble,Exotic,Bearded Dragon,Tan,2023-03-20,Adoption,,Unknown,56 weeks,56,30.2691,-97.745
+X10006_2,Bubbles,Fish,Betta,Blue,2024-02-01,Adoption,,Unknown,10 weeks,10,30.2678,-97.7438
+X10007_2,Sunny,Bird,Cockatiel,Yellow,2022-11-08,Adoption,,Unknown,70 weeks,70,30.2688,-97.7429
+X10008_2,Shadow,Cat,Maine Coon Mix,Black,2021-06-17,Transfer,,Neutered Male,180 weeks,180,30.2662,-97.7447
+X10009_2,Rex,Dog,Labrador Retriever Mix,Black,2020-04-21,Adoption,,Neutered Male,210 weeks,210,30.2648,-97.7425
+X10010_2,Ember,Exotic,Ball Python,Brown,2021-09-30,Adoption,,Unknown,130 weeks,130,30.2686,-97.7415
+X10001_3,Nemo,Fish,Goldfish,Orange,2024-01-10,Adoption,,Unknown,12 weeks,12,30.2672,-97.7431
+X10002_3,Kiwi,Bird,Parakeet,Green,2023-09-14,Transfer,,Unknown,30 weeks,30,30.268,-97.742
+X10003_3,Mittens,Cat,Domestic Shorthair Mix,Gray,2022-05-11,Adoption,,Spayed Female,104 weeks,104,30.2665,-97.7442
+X10004_3,Spike,Dog,Pit Bull Mix,Brown,2021-08-03,Return to Owner,,Neutered Male,156 weeks,156,30.265,-97.7418
+X10005_3,Marble,Exotic,Bearded Dragon,Tan,2023-03-20,Adoption,,Unknown,56 weeks,56,30.2691,-97.745
+X10006_3,Bubbles,Fish,Betta,Blue,2024-02-01,Adoption,,Unknown,10 weeks,10,30.2678,-97.7438
+X10007_3,Sunny,Bird,Cockatiel,Yellow,2022-11-08,Adoption,,Unknown,70 weeks,70,30.2688,-97.7429
+X10008_3,Shadow,Cat,Maine Coon Mix,Black,2021-06-17,Transfer,,Neutered Male,180 weeks,180,30.2662,-97.7447
+X10009_3,Rex,Dog,Labrador Retriever Mix,Black,2020-04-21,Adoption,,Neutered Male,210 weeks,210,30.2648,-97.7425
+X10010_3,Ember,Exotic,Ball Python,Brown,2021-09-30,Adoption,,Unknown,130 weeks,130,30.2686,-97.7415
